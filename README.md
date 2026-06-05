@@ -6,7 +6,7 @@ Desenvolvido como uma ferramenta pedagógica e acadêmica, este aplicativo visa 
 O projeto está na sua fase inicial de prototipagem, funcionando como a "planta baixa" de uma construção. A `BUILD` atual contempla:
 * [x] Estrutura base do projeto configurada.
 * [x] Fluxo inicial de navegação entre telas.
-* [x] Interface demonstrativa com os primeiros elementos químicos.
+* [x] Interface demonstrativa com alguns cards que irão representar os elementos químicos.
 * [ ] Implementação do banco de dados completo dos elementos *(Próxima fase)*.
 
 ---
